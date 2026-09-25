@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 
-from multiprocessing_array import data
+
 
 app = Flask(__name__)
 
